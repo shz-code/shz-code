@@ -3,8 +3,8 @@
 This is [Shahidul Alam](https://github.com/shz-code/shz-code)
 
 <div>
-<a href="https://github.com/shz-code/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=shz-code&theme=dark&show_icons=true" width="350" align="right" /></a>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=shz-code&theme=highcontrast&hide_border=true" width="350" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=shz-code&theme=dark&show_icons=true" width="350" align="right" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=shz-code&theme=highcontrast&hide_border=true" width="350" />
 </div>
 
 <br >
