@@ -2,6 +2,8 @@
 
 This is [Shahidul Alam](https://github.com/shz-code/shz-code)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=shz-code)
+
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=shz-code&theme=dark&show_icons=true" width="350" align="right" />
 <img src="http://github-readme-streak-stats.herokuapp.com?user=shz-code&theme=highcontrast&hide_border=true" width="350" />
